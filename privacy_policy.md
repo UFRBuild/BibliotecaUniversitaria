@@ -1,5 +1,5 @@
 ## Política de Privacidade 
-eu construir o aplicativo Biblioteca Universitária como um aplicativo gratuito. Este SERVIÇO é fornecido por mim sem nenhum custo e é destinado para uso como está. Esta página é usada para informar os usuários de aplicativos sobre nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço.
+eu desenvolvi o aplicativo Biblioteca Universitária como um aplicativo gratuito. Este SERVIÇO é fornecido sem nenhum custo e é destinado para uso como está. Esta página é usada para informar os usuários de aplicativos sobre nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço.
 
 Se você optar por usar o nosso Serviço, você concorda com a coleta e uso de
 informação em relação a esta política. As informações pessoais que coletamos
@@ -7,7 +7,9 @@ informação em relação a esta política. As informações pessoais que coleta
 informações com qualquer pessoa, exceto conforme descrito nesta Política de Privacidade. 
 
 ### Coleta e Uso de Informações
-Para uma melhor experiência, ao usar nosso Serviço, eu posso exigir que você nos forneça certas informações pessoalmente identificáveis. As informações que eu solicito são mantidas no seu dispositivo e não são coletadas por mim de forma alguma.
+Para uma melhor experiência, ao usar nosso Serviço,  podemos exigir que você nos forneça certas informações pessoalmente identificáveis. As informações que solicitamos são mantidas no seu dispositivo e não são coletadas por mim de forma alguma.
+
+Não temos vínculo algum com o PERGAMUM. O aplicativo tem a finalidade de ajudar usuários do sistemas de biblioteca da universidade. Ele apenas auxilia os estudantes, filtrando os dados disponíveis no sistema de biblioteca da universidade usando um Smartphone.
 
 ### Dados de log
 Queremos informá-lo que sempre que você usar nosso serviço, em caso de erro
