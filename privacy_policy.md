@@ -1,48 +1,51 @@
-## Política de Privacidade 
-eu desenvolvi o aplicativo Biblioteca Universitária como um aplicativo gratuito. Este SERVIÇO é fornecido sem nenhum custo e é destinado para uso como está. Esta página é usada para informar os usuários de aplicativos sobre nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço.
+# Privacy Policy
+I've built the Biblioteca Universitária app as an Free app. This SERVICE is provided by me at no cost and is intended for use as is.
 
-Se você optar por usar o nosso Serviço, você concorda com a coleta e uso de
-informação em relação a esta política. As informações pessoais que coletamos
-é usado para fornecer e melhorar o serviço. Nós não vamos usar ou compartilhar o seu
-informações com qualquer pessoa, exceto conforme descrito nesta Política de Privacidade. 
+This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-### Coleta e Uso de Informações
-Para uma melhor experiência, ao usar nosso Serviço,  podemos exigir que você nos forneça certas informações pessoalmente identificáveis. As informações que solicitamos são mantidas no seu dispositivo e não são coletadas por mim de forma alguma.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Não temos vínculo algum com o PERGAMUM. O aplicativo tem a finalidade de ajudar usuários do sistemas de biblioteca da universidade. Ele apenas auxilia os estudantes, filtrando os dados disponíveis no sistema de biblioteca da universidade usando um Smartphone.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Biblioteca Universitária unless otherwise defined in this Privacy Policy.
 
-### Dados de log
-Queremos informá-lo que sempre que você usar nosso serviço, em caso de erro
-no aplicativo coletamos dados e informações (através de produtos de terceiros) em
-seu telefone chamado Log Data. Estes dados de registro podem incluir informações como
-endereço IP do dispositivo (IP), nome do dispositivo, versão do sistema operacional,
-a configuração do aplicativo ao utilizar nosso Serviço, a hora e a data de
-seu uso do Serviço e outras estatísticas.
+## Information Collection and Use
 
-### Cookies
-Cookies são arquivos com pequena quantidade de dados que são comumente usados como um identificador exclusivo anônimo. Estes são enviados para o seu navegador a partir do site que você visita e são armazenados na memória interna do seu dispositivo.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
+The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+[Google Play Services](https://www.google.com/policies/privacy/)
 
-Este serviço não usa esses “cookies” explicitamente. No entanto, o aplicativo usa apenas para manter a ligação ao Pergamum, sendo que essa ligação é temporária para cada acesso no aplicativo.
+## Log Data
 
-### Provedores de serviço
-Podemos empregar empresas e indivíduos de terceiros pelos seguintes motivos:
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through Google Play Services) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-* Facilitar nosso serviço;
-* Para fornecer o serviço em nosso nome;
-* Para executar serviços relacionados a serviços; 
-* Para nos ajudar a analisar como o nosso serviço é usado.
+## Cookies
 
-### Segurança
-eu valorizo sua confiança ao nos fornecer suas Informações Pessoais, por isso estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-los. Mas lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
 
-### Links para outros sites
-Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, você será direcionado para esse site. Observe que esses sites externos não são operados por nós. Portanto, recomendamos que você revise a Política de Privacidade desses sites. Não temos controle e não assumimos qualquer responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+This Service does not use these “cookies” explicitly. Those are used just to keep the connection to the Pergamum
 
-### Alterações a esta política de privacidade
-eu posso atualizar nossa Política de Privacidade de tempos em tempos. Assim, você é aconselhado a
-revise esta página periodicamente para quaisquer alterações. Vamos notificá-lo de quaisquer alterações
-publicando a nova Política de Privacidade nesta página. Essas mudanças são eficazes
-imediatamente depois de serem publicados nesta página.
+## Service Providers
 
-### Contate-Nos
-Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em nos contatar.
+I may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist in analyzing how our Service is used.
+
+## Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+## Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+## Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+## Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+
